@@ -3,6 +3,10 @@
   "version": "1.0.3",
   "main": "dist/index.js",
   "module": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/satnamSandhu2001/nextjs-carousel.git"
+  },
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
     "css-loader": "^7.1.2",
